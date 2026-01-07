@@ -1,2 +1,2 @@
-Hi All
 This is our Aws Devops Batch
+We are learning Git and Git Bash
