@@ -1,9 +1,8 @@
-<<<<<<< HEAD
+
 This is my first file.
-=======
 This is our Aws Devops Batch
 We are learning Git and Git Bash
 This is our conflict file.
->>>>>>> 83b670e3b4ed4e4ba4006e7f326c3f74fc7cf6f9
 
 Hi myself Deepak
+I am editing to learn the stash concept
